@@ -9,7 +9,7 @@ function Letter(){
     this.wordLetter = wordLetter,
     this.letterGuessed = false,
     this.guessCheck = function(){
-        if(wordLetter = inpu)
+        if(wordLetter = inputLetter)
     }
     this.updateBool = function(){
 
